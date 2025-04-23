@@ -26,9 +26,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CaptainFearist&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CaptainFearist&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFearist&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+  <img width="44%" height="100%" style="margin-right: 4%;" src="https://github-readme-stats.vercel.app/api?username=CaptainFearist&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img width="48%" height="100%" object-fit: contain;" src="https://nirzak-streak-stats.vercel.app/?user=CaptainFearist&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFearist&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CaptainFearist&icon=0&color=0)](https://visitcount.itsvg.in)
